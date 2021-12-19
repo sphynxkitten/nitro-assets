@@ -1,5 +1,10 @@
 ### Nitro Assets
-##### Latest Update: 03/12/21
+##### Latest Update: 09/12/21
+**Files have been reconverted with the most recent version of the Nitro Converter as recommended for the Nitro Client v1.1.0 release.**
+
+---
+
+##### Update: 03/12/21
 **Added new furniture lines:**
 - New BC Furni
 - Rare Prize 2021 - Christmas
