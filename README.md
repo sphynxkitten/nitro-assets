@@ -1,4 +1,21 @@
 ### Nitro Assets
+##### Update: 20/12/21
+**Added new furniture lines:**
+- Teletubbies
+- HC 2022
+- NY Crackable
+- NFT Club Sofa
+- Hello Kitty
+- Spa 2022
+- Christmas 2021 Crackable
+- Year 2022 Wallitem
+- New Clothing; including Hello Kitty, NFT clothing, NY2021/2022.
+
+**Added newest clothing as of update date.**
+- *As of working in game; it depends if Habbo has updated the figuremap/figuredata*
+
+---
+
 ##### Latest Update: 09/12/21
 **Files have been reconverted with the most recent version of the Nitro Converter as recommended for the Nitro Client v1.1.0 release.**
 
