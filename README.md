@@ -1,4 +1,17 @@
 ### Nitro Assets
+##### Latest Update: 30/12/21
+**Wall items were completely reconverted.**
+
+**Added new furniture lines:**
+- New 2022 Rares
+- Credit Furni; Champagne
+- LTD 2022; Giant Crystal
+
+**Added newest clothing as of update date.**
+- *As of working in game; it depends if Habbo has updated the figuremap/figuredata*
+
+---
+
 ##### Update: 20/12/21
 **Added new furniture lines:**
 - Teletubbies
@@ -11,12 +24,9 @@
 - Year 2022 Wallitem
 - New Clothing; including Hello Kitty, NFT clothing, NY2021/2022.
 
-**Added newest clothing as of update date.**
-- *As of working in game; it depends if Habbo has updated the figuremap/figuredata*
-
 ---
 
-##### Latest Update: 09/12/21
+##### Update: 09/12/21
 **Files have been reconverted with the most recent version of the Nitro Converter as recommended for the Nitro Client v1.1.0 release.**
 
 ---
@@ -38,9 +48,6 @@
 | 205 | Trippy NFT Coin |
 | 206 | Ultra Trippy NFT Coin |
 
-**Added newest clothing as of update date.**
-- *As of working in game; it depends if Habbo has updated the figuremap/figuredata*
-
 ---
 
 ##### Update: 03/11/21
@@ -51,9 +58,6 @@
 - Rainbow LTD Dragon
 - Stack Tiles
 - Christmas 2021
-
-**Added newest clothing as of update date.**
-- *As of working in game; it depends if Habbo has updated the figuremap/figuredata*
 
 ---
 
