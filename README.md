@@ -1,5 +1,14 @@
 ### Nitro Assets
-##### Latest Update: 30/12/21
+##### Latest Update: 16/01/22
+**Added new furniture lines:**
+- Boho Garden
+- CNY
+- Valentines 22
+- New Clothing; including CNY, Boho.
+
+---
+
+##### Update: 30/12/21
 **Wall items were completely reconverted.**
 
 **Added new furniture lines:**
