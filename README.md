@@ -1,5 +1,21 @@
 ### Nitro Assets
-##### Latest Update: 16/01/22
+##### Latest Update: 29/01/21
+**Added new furniture lines:**
+- 2022 Bonus Bags
+- Credit Furni; Peacock Vase, Stagmount, Geode, Golden Canter, Jewelled Snake, Phone
+- Diamond Paintings
+- 2022 Rare Prize
+- San Rio
+- Safer Internet Day Plush
+- New Trophies (Fansite, Game Prize)
+- New Clothing; including Beetle Backpack, Sanrio, Boho.
+
+**Added newest clothing as of update date.**
+- *As of working in game; it depends if Habbo has updated the figuremap/figuredata*
+
+---
+
+##### Update: 16/01/22
 **Added new furniture lines:**
 - Boho Garden
 - CNY
@@ -15,9 +31,6 @@
 - New 2022 Rares
 - Credit Furni; Champagne
 - LTD 2022; Giant Crystal
-
-**Added newest clothing as of update date.**
-- *As of working in game; it depends if Habbo has updated the figuremap/figuredata*
 
 ---
 
