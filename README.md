@@ -9,13 +9,13 @@
 **Added 3 new effects**
 | | Effect | Effect ID |
 | :--: | :---:     | :---:       |
-| ![alt text1][effect207]  | LightstickRed   | 207        |
-| ![alt text1][effect208]  | LightstickGreen | 208     |
-| ![alt text1][effect209]  | LightstickBlue | 209 |
+| ![alt text1][effect207]  | LightstickBlue   | 207        |
+| ![alt text1][effect208]  | LightstickRed | 208     |
+| ![alt text1][effect209]  | LightstickGreen | 209 |
 
-[effect207]: https://content.puhekupla.com/uploads/2022/02/Image-2-1.png
-[effect208]: https://content.puhekupla.com/uploads/2022/02/Image-3-1.png
-[effect209]: https://content.puhekupla.com/uploads/2022/02/Image-3.png
+[effect207]: https://content.puhekupla.com/uploads/2022/02/Image-3.png
+[effect208]: https://content.puhekupla.com/uploads/2022/02/Image-2-1.png
+[effect209]: https://content.puhekupla.com/uploads/2022/02/Image-3-1.png
 
 **FIXED HabboAvatarActions / hand items**
 
