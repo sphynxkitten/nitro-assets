@@ -1,23 +1,45 @@
 ### Nitro Assets
-##### Latest Update: 10/02/21
+##### Latest Update: 12/03/22
 **Added new furniture lines:**
-- New BC Furni
-- 2022 Rares; Fancy Fountain, Topiary Animals
-- Summer 2022
+- Easter 2022
+- NFT Holograms
+- More Sanrio items
 - New Clothing
+
+**Added 3 new effects**
+| | Effect | Effect ID |
+| :--: | :---:     | :---:       |
+| ![alt text1][effect207]  | LightstickRed   | 207        |
+| ![alt text1][effect208]  | LightstickGreen | 208     |
+| ![alt text1][effect209]  | LightstickBlue | 209 |
+
+[effect207]: https://content.puhekupla.com/uploads/2022/02/Image-2-1.png
+[effect208]: https://content.puhekupla.com/uploads/2022/02/Image-3-1.png
+[effect209]: https://content.puhekupla.com/uploads/2022/02/Image-3.png
+
+**FIXED HabboAvatarActions / hand items:**
 
 **Added newest clothing as of update date.**
 - *As of working in game; it depends if Habbo has updated the figuremap/figuredata*
 
 ---
 
-##### Update: 29/01/21
+##### Update: 10/02/22
+**Added new furniture lines:**
+- New BC Furni
+- 2022 Rares; Fancy Fountain, Topiary Animals
+- Summer 2022
+- New Clothing
+
+---
+
+##### Update: 29/01/22
 **Added new furniture lines:**
 - 2022 Bonus Bags
 - Credit Furni; Peacock Vase, Stagmount, Geode, Golden Canter, Jewelled Snake, Phone
 - Diamond Paintings
 - 2022 Rare Prize
-- San Rio
+- Sanrio
 - Safer Internet Day Plush
 - New Trophies (Fansite, Game Prize)
 - New Clothing; including Beetle Backpack, Sanrio, Boho.
