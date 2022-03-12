@@ -18,6 +18,7 @@
 [effect209]: https://content.puhekupla.com/uploads/2022/02/Image-3.png
 
 **FIXED HabboAvatarActions / hand items**
+
 **Added :event texts to ExternalTexts.json**
 
 **Added newest clothing as of update date.**
