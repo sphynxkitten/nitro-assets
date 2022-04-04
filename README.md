@@ -1,5 +1,18 @@
 ### Nitro Assets
-##### Latest Update: 12/03/22
+##### Latest Update: 04/04/22
+**Added new furniture lines:**
+- Teletubbies (continued)
+- New BC Furni
+- NFT Credits
+- NFT Trippt Duck
+- New Clothing
+
+**Added newest clothing as of update date.**
+- *As of working in game; it depends if Habbo has updated the figuremap/figuredata*
+
+---
+
+##### Update: 12/03/22
 **Added new furniture lines:**
 - Easter 2022
 - NFT Holograms
@@ -20,9 +33,6 @@
 **FIXED HabboAvatarActions / hand items**
 
 **Added :event texts to ExternalTexts.json**
-
-**Added newest clothing as of update date.**
-- *As of working in game; it depends if Habbo has updated the figuremap/figuredata*
 
 ---
 
