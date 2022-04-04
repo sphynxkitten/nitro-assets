@@ -4,7 +4,7 @@
 - Teletubbies (continued)
 - New BC Furni
 - NFT Credits
-- NFT Trippt Duck
+- NFT Trippy Duck
 - New Clothing
 
 **Added newest clothing as of update date.**
