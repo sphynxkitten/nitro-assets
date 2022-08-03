@@ -1,5 +1,12 @@
 ### Nitro Assets
-##### Latest Update: 04/04/22
+##### Latest Update: 03/08/22
+**Completely reconverted as I lost track of additions and converter updates.**
+
+**Contains updated furniture, clothes and efects as of update date.**
+
+---
+
+##### Update: 04/04/22
 **Added new furniture lines:**
 - Teletubbies (continued)
 - New BC Furni
