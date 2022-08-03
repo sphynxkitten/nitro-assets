@@ -2,7 +2,7 @@
 ##### Latest Update: 03/08/22
 **Completely reconverted as I lost track of additions and converter updates.**
 
-**Contains updated furniture, clothes and efects as of update date.**
+**Contains updated furniture, clothes and effects as of update date.**
 
 ---
 
