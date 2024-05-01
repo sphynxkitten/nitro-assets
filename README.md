@@ -1,4 +1,16 @@
 ### Nitro Assets
+
+##### Latest Update: 03/08/22
+***Long overdue update, sorry.***
+
+**Again, completely reconverted as I lost track of additions and converter updates.**
+
+**Updated & properly fixed HabboAvatarActions.json.**
+
+**Contains updated furniture, clothes, effects & pets as of update date.**
+
+---
+
 ##### Latest Update: 03/08/22
 **Completely reconverted as I lost track of additions and converter updates.**
 
